@@ -1,0 +1,9 @@
+{
+	"name": "dhoraadf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7dcf8c5a-cdb2-45c9-bae6-9a49fa7598cc",
+		"tenantId": "039a4137-5961-45b9-85dc-a374673d934e"
+	}
+}
